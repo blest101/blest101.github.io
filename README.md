@@ -28,3 +28,4 @@ If you want to test the site locally:
    ```bash
    git clone https://github.com/yourusername/my-python-website.git
    cd my-python-website
+   ![Minion](https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/18/full/1702881994-7927.png?im=FeatureCrop,size=(826,465))
